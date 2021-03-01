@@ -1,6 +1,6 @@
 ### CRUD
 
-Express: yarn add express<br>
+**Express: yarn add express<br>
 Router: yarn add router<br>
 Fs: yarn add fs<br>
 Nodemon: yarn add nodemon<br>
@@ -8,7 +8,7 @@ Run:<br>
 Yarn dev <br>
 ou<br>
 yarn nodemon src/index<br>
-
+**
 **Methods**
 
 **Method Get**
