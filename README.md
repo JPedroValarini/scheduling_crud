@@ -5,6 +5,7 @@ Nodemon: yarn add nodemon
 Run:
 Yarn dev 
 ou
+</hr>
 yarn nodemon src/index
 
 Methods
