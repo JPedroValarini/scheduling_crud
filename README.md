@@ -1,14 +1,13 @@
 ### CRUD
 
-*Express: yarn add express
-*Router: yarn add router
-*Fs: yarn add fs
-*Nodemon: yarn add nodemon
-**Run:**
-*Yarn dev 
-  
-  ou
-*yarn nodemon src/index
+Express: yarn add express<br>
+Router: yarn add router<br>
+Fs: yarn add fs<br>
+Nodemon: yarn add nodemon<br>
+Run:<br>
+Yarn dev <br>
+ou<br>
+yarn nodemon src/index<br>
 
 **Methods**
 
