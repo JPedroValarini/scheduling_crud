@@ -19,12 +19,10 @@ Methods
 </hr>
 
 Method Get
-</hr>
 Url: http://localhost:3333/
 </hr>
 
 Method Post
-</hr>
 Url: http://localhost:3333/
 </hr>
 JSON: {"day":"15/02/2020","intervals":[{"start":"14:00","end":"15:00"},{"start":"15:00","end":"16:00"}]}
